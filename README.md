@@ -20,5 +20,7 @@ See the application live [here](https://sound.web-developer-js.de)
 If you have cloned the repository please run:
 
 ```
-click on the index.html :sound: :raised_hands:
+click on the index.html 
 ```
+
+:sound: :raised_hands:
